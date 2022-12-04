@@ -1,5 +1,5 @@
 FROM node:18.10-alpine
-LABEL AUTHOR="oumoudid Othmane"
+LABEL AUTHOR="Med Othy"
 WORKDIR /code
 RUN npm install -g @angular/cli
 
